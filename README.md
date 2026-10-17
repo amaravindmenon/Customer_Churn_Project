@@ -1,2 +1,0 @@
-# Customer_Churn_Project
-Customer_Churn_Project
